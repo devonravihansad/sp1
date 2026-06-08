@@ -10,6 +10,6 @@ export default function Navbar() {
         <Button color="inherit">About</Button>
         <Button color="inherit">Contact</Button>
       </Toolbar>
-    </AppBar>
+    </AppBar> 
   );
 }
